@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../fonts/octin\ vintage\ b\ rg.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SportFont';
+    src: url('../fonts/octin\ sports\ rg.otf') format('truetype');
+}
+
+
+.landingTitle {
+    font-family: 'SportFont';
+    margin-top: 0;
+    margin-bottom: 0em;
+    font-size: 8.5em;
+    letter-spacing: 2px;
+}
